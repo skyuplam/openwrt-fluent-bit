@@ -1,5 +1,8 @@
 # Cross compile fluent-bit for OpenWrt version 17.01.4
 
+## Known issue
+See #1
+
 ## Build docker image
 ```bash
 docker build -t skyuplam/openwrt-fluent-bit .
